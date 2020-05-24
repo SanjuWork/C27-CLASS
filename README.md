@@ -1,2 +1,2 @@
-# C27-CLASS
-CONSTRAINT CONCEPT
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
